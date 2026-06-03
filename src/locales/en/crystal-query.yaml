@@ -1,0 +1,17 @@
+select-stat:
+  title: Select Stat
+modes:
+  title: Search Mode
+  normal: Normal
+  stat: Crysta Stats
+crystal-category:
+  title: Crysta Type
+  categorys:
+    - Weapon Crysta
+    - Armor Crysta
+    - Additional Crysta
+    - Special Crysta
+    - Normal Crysta
+no-results-tips: No results found 0.0
+enhancer-prefix: Enhances
+obtain-prefix: Dropped from

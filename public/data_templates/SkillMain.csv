@@ -1,0 +1,570 @@
+分類,編號,前置技能,技能樹順序,名稱,英文,日文,簡體中文
+0,0,,,武器技能,Weapon,武器スキル,武器技能
+1,0,,SR H3 SR H SR H SR H S L2 E DRB SR H SRB H SR H5 S L SR DB E2 DR H3 SR H S L E DR SR H SRB H S L E4 DR H3 SR H S L SR H SRB H S L E2 DR H3 SR H SR H S L2 E6 S,劍術技能,Blade Skills,ブレードスキル,剑术技能
+,0,-,9,威力攻擊,Hard Hit,ハードヒット,威力攻击
+,1,0,5,迅捷攻擊,Astute,アステュート,迅捷攻击
+,2,1,6,橫掃千軍,Trigger Slash,トリガースラッシュ,横扫千军
+,3,2,7,爆氣斬,Rampage,ランページ,爆气斩
+,15,3,8,完封,Shut-Out,シャットアウト,完封
+,4,2,10,流星墜擊,Meteor Breaker,メテオブレイカー,流星坠击
+,16,4,11,月弧斬,Lunar Slash,ムーンスラッシュ,月弧斩
+,5,0,12,音速斬切,Sonic Blade,アクセルブレード,音速斩切
+,6,5,13,真空刃,Spiral Air,スパイラルエアー,真空刃
+,7,6,14,風暴氣流,Sword Tempest,ソードテンペスト,风暴气流
+,8,6,15,破壞之刃,Buster Blade,バスターブレード,破坏之刃
+,17,8,16,靈氣之刃,Aura Blade,オーラブレード,灵气之刃
+,9,-,17,劍術要領,Sword Mastery,ブレードマスタリ,剑术要领
+,10,9,18,劍速提升,Quick Slash,素早い斬撃,剑速提升
+,11,10,19,大師級劍術,Sword Techniques,匠の剣術,大师级剑术
+,12,10,20,戰吼,War Cry,ウォークライ,战吼
+,13,12,21,狂戰士之怒,Berserk,バーサーク,狂战士之怒
+,18,13,22,劍斗,Gladiate,グラディエイト,剑斗
+,14,-,23,快速蹴擊,Swift Attack,ファストアタック,快速蹴击
+,19,-,0,錘擊,Hammer Slam,ハンマーダウン,锤击
+,20,19,1,橫斬披靡,Cleaving Attack,クリーヴアタック,横斩披靡
+,21,20,2,風暴烈焰,Storm Blaze,ストームブレイザー,风暴烈焰
+,22,21,3,守護之刃,Garde Blade,ガーディブレイド,守护之刃
+,23,22,4,魔怪斬,Orge Slash,オーガスラッシュ,魔怪斩
+1,1,,E6 DRB H3 S L E2 DRB H3 SR H5 S L E2 V E6 DRB S L SR DRB SR H SR H3 SR DBR H2 S L E V E7 DR S L E DR SR H SR H SR H SRB H3 S L E8 DR H S L SRB H3 SR H SR H SR H3 S L DRB H9 S L DR H SR H5 S L E6 S,射擊技能,Shot Skills,シュートスキル,射击技能
+,0,-,4,威力射擊,Power Shot,パワーシュート,威力射击
+,1,0,5,渦輪射擊,Bullseye,ワンホイール,涡轮射击
+,2,1,1,弱點狙擊,Snipe,スナイピング,弱点狙击
+,15,2,2,征服者,Vanquisher,コンクェスター,征服者
+,16,4,3,雙暴風,Twin Storm,ツインストーム,双暴风
+,17,4,9,退身擊,Retrograde Shot,旋身番擊ち,退身击
+,3,1,6,箭雨,Arrow Rain,アローレイン,箭雨
+,4,3,7,交叉火線,Cross Fire,クロスファイア,交叉火线
+,5,0,10,黏液射擊,Moeba Shot,メーバショット,黏液射击
+,6,5,11,麻痺射擊,Paralysis Shot,パライズショット,麻痹射击
+,7,6,12,煙霧彈,Smoke Dust,スモークダスト,烟雾弹
+,8,7,13,斷腕擊,Arm Break,アームブレイク,断腕击
+,18,8,14,曲線砲,Parabola Cannon,パラボラキャノン,曲线炮
+,19,9,21,武士弓術,Samurai Archery,武士弓術,武士弓术
+,9,-,16,弓術要領,Shot Mastery,シュートマスタリ,弓术要领
+,10,9,22,匿蹤,Sneak Attack,ハイドアタック,匿踪
+,11,9,17,遠程狙擊,Long Range,ロングレンジ,远程狙击
+,12,11,18,回氣,Quick Draw,クイックドロー,回气
+,13,12,19,分身射手,Decoy Shot,デコイシューター,分身射手
+,14,-,24,破滅射擊,Fatal Shot,デストルクショット,破灭射击
+,20,4,8,快速裝載,Quick Loader,クイックローダー,快速装载
+,21,13,20,元素所及,Element Starter,エレメントリーチ,元素所及
+,22,2,0,貫穿箭,Piercing Shot,,贯穿箭
+,23,8,15,廣域散射,Spread Shot,,广域散射
+,24,10,23,狩獵汪,Hunting Buddy,,狩猎汪
+1,2,,E DRB SR H SR H SR H SRB H S L SR DB E6 DR H3 S L E DR SR H SR H SRB DR SR H S L E6 DR H5 S L SR H3 SR H SR H S L2 SR H3 SR H SR H SR DRB S L E9 V L E6 S E2 DR S,魔法技能,Magic Skills,マジックスキル,魔法技能
+,0,-,5,法術/飛箭,Magic: Arrows,術式/アロー,法术/飞箭
+,1,0,0,法術/長槍,Magic: Javelin,術式/ジャベリン,法术/长枪
+,2,1,1,法術/魔法槍,Magic: Lances,術式/ランサー,法术/魔法枪
+,3,2,2,法術/衝擊波,Magic: Impact,術式/インパクト,法术/冲击波
+,4,3,3,法術/終結,Magic: Finale,術式／フィナウ,法术/终结
+,15,4,4,變時神術,Chronos Shift,クロノスシフト,变时神术
+,5,0,7,法術/障壁,Magic: Wall,術式/ウォール,法术/障壁
+,6,5,8,法術/引爆,Magic: Blast,術式/ブラスト,法术/引爆
+,7,6,9,法術/暴風,Magic: Storm,術式/ストーム,法术/暴风
+,8,7,10,法術/爆能,Magic: Burst,術式／バースト,法术/爆能
+,16,8,11,法術/魔法砲,Magic: Magic Cannon,術式/マジックカノン,法术/魔法炮
+,9,-,13,魔法要領,Magic Mastery,マジックマスタリ,魔法要领
+,20,9,14,魔法小刀,Magic Knife,マジックナイフ,魔法小刀
+,21,20,15,不遺餘力,Qadal,カダルエレクシオ,不遗余力
+,17,7,12,法術/毀滅,Magic: Crash,術式/フォール,法术/毁灭
+,10,-,17,魔力充填,MP Charge,チャージング,魔力充填
+,11,10,18,縮時詠唱,Chain Cast,チェインキャスト,缩时咏唱
+,12,11,19,強射,Power Wave,パワーウェーブ,强射
+,13,12,20,魔力灌充,Maximizer,マキシマイザー,魔力灌充
+,18,13,21,急速充填,Rapid Charge,急速チャージ,急速充填
+,14,-,22,法術/光護,Magic: Guardian Beam,術式/イーゲル,法术/光护
+,19,13,23,法術結界,Enchanted Barriers,術式結界,法术结界
+,22,4,6,法術/雷射,Magic: Laser,,法术/雷射
+,23,21,16,咒法調律,Spell Calibration,,咒法调律
+1,3,,E8 DRB H3 S L E DRB SR H SR H SR H SR H S L SR DB E2 DRB H7 S L E DR SR H SR H SRB H SRB H S L E6 V E DR H3 S L E6 DR H3 S L SR H5 SR H SR H3 S L2 SR H3 S L E6 S,格鬥技能,Martial Skills,マーシャルスキル,格斗技能
+,0,-,6,重擊,Smash,スマッシュ,重击
+,1,0,1,痛擊,Bash,バッシュ,痛击
+,2,1,2,穿甲,Shell Break,シェルブレイク,穿甲
+,3,2,3,猛暴拳,Heavy Smash,ヘビースマッシュ,猛暴拳
+,4,3,4,戰車猛擊,Chariot,チャリオット,战车猛击
+,15,4,5,心像千手,Abstract Arms,心象千手,心像千手
+,5,0,8,音速波動,Sonic Wave,ソニックウェーブ,音速波动
+,6,5,9,震地強襲,Earth Bind,アースバインド,震地强袭
+,7,6,10,三段擊,Triple Kick,トライアーツ,三段击
+,8,7,11,疾襲,Rush,ラッシュ,疾袭
+,16,8,12,修羅氣場,Asura Aura,アシュラオーラ,修罗气场
+,17,7,14,閃影擊,Flash Blink,フラッシュアーツ,闪影击
+,9,-,15,格鬥要領,Martial Mastery,マーシャルマスタリ,格斗要领
+,10,9,16,體術鍛鍊,Martial Disciple,体術鍛錬,体术锻炼
+,11,10,17,經絡脈輪,Chakra,チャクラ,经络脉轮
+,18,11,18,化勁,Energy Control,化勁,化劲
+,12,-,19,乘勝追擊,Aggravate,ワンチャンス,乘胜追击
+,13,12,20,猛力追擊,Strong Chase Attack,強力な追撃,猛力追击
+,14,-,21,滑行,Slide,スライディング,滑行
+,19,4,0,貼山靠,Mountain Press,,贴山靠
+,20,6,7,震腳,Seismic Stomp,,震脚
+,21,8,13,旋掃,Spin Sweep,,旋扫
+1,4,,E4 DRB H5 S L SR DRB SR H SR H S L E V E7 DRB S L E DRB SR H SR H SR H SR DB L E V E7 DR S L E DRB SR H3 SR H S L E V L E DR SR H SRB H3 SR H S L E4 V E3 DRB H3 S L E4 DR H3 SR H S,雙劍技能,Dual Sword Skills,デュアルソードスキル,双剑技能
+,0,-,1,雙劍要領,Dual Sword Mastery,デュアルマスタリ,双剑要领
+,1,0,2,雙弧斬,Twin Slash,ツインスラッシュ,双弧斩
+,2,1,3,破空刃,Spinning Slash,エアスライド,破空刃
+,3,2,4,幻影劍,Phantom Slash,ファントムレイヴ,幻影剑
+,4,0,6,禦空破陣,Cross Parry,パリングソード,御空破阵
+,5,4,7,猛爆斬,Charging Slash,ドラグーンソード,猛爆斩
+,6,5,8,劍影,Shadowstep,回り込み,剑影
+,8,0,11,步步為營,Reflex,ステップリアクター,步步为营
+,9,8,12,劍閃,Flash Blast,フィロ・エクレール,剑闪
+,11,0,14,雙劍鍛鍊,Dual Sword Control,双剣の鍛錬,双剑锻炼
+,12,11,15,神速軌跡,God Speed,神速の軌跡,神速轨迹
+,7,6,9,閃光交叉,Shining Cross,シァイニングクロス,闪光交叉
+,10,9,13,疾風收割,Storm Reaper,シュツルムリーパー,疾风收割
+,13,12,16,劍舞靈光,Saber Aura,セイバーオーラー,剑舞灵光
+,14,2,0,破空刃斬,Aerial Cut,エアスライサー,破空刃斩
+,15,7,5,月神災厄,Lunar Misfortune,ルーナディザスター,月神灾厄
+,16,7,10,雙破壞之刃,Twin Buster Blade,ツインバスターブレード,双破坏之刃
+,17,13,17,弧光劍舞,Crescent Saber,アークセイバー,弧光剑舞
+,18,19,18,劍刃突刺,Sting Blade,,剑刃突刺
+,19,12,19,空舞斬,Aerial Slay,エリアルスレイ,空舞斩
+,20,19,20,水平橫斬,Horizon Cut,ホライゾナルカット,水平横斩
+1,5,,E4 DRB H3 SR H S L SR DRB SR H SR H S L E V L E DR SRB H3 SR H SR H S L E2 V L E2 DR H SR H SR H SR H S L2 SR H5 SR H3 S L2 SR H3 SR H3 SR H S L E6 S,斧槍技能,Halberd Skills,ハルバードスキル,斧枪技能
+,0,-,2,迅捷刺突,Flash Stab,フラッシュスタブ,迅捷刺突
+,4,2,0,龍牙擊,Dragon Tooth,ドラゴントゥース,龙牙击
+,15,4,1,龍力充填,Draconic Charge,ドラゴニックチャージ,龙力充填
+,1,0,3,鴻鵠一擲,Cannon Spear,キャノンスピア,鸿鹄一掷
+,2,1,4,龍尾,Dragon Tail,ドラゴンテイル,龙尾
+,3,2,5,潛龍憾地,Dive Impact,ダイブインパクト,潜龙憾地
+,5,0,6,死亡斧槍,Deadly Spear,デッドリースピア,死亡斧枪
+,6,5,7,穿刺擊,Strike Stab,ストライクスタブ,穿刺击
+,7,6,8,時空驅動,Chronos Drive,クロノスドライブ,时空驱动
+,16,7,9,無窮空間,Infinite Dimension,ディメンジョンティル,无穷空间
+,8,5,10,懲戒之槍,Punish Ray,パニッシュレイ,惩戒之枪
+,9,-,14,斧槍要領,Halberd Mastery,ハルバードマスタリ,斧枪要领
+,10,9,15,凝聚心神,Critical Spear,会心の捌き,凝聚心神
+,17,10,16,颶風槍,Tornado Lance,トルネードランス,飓风枪
+,11,-,17,破風之勢,Quick Aura,クイックオーラ,破风之势
+,12,11,18,逆境怒吼,War Cry of Struggle,逆境の雄叫び,逆境怒吼
+,13,12,19,神速掌握,Godspeed Wield,神速の捌手,神速掌握
+,18,13,20,神槍掌握,Almighty Wield,神の槍捌き,神枪掌握
+,14,-,21,破壞矛,Buster Lance,バスターランス,破坏矛
+,19,8,11,雷霆之槍,Blitz Spike,,雷霆之枪
+,20,19,12,天打雷劈,Lighting Hail,,天打雷劈
+,21,20,13,索爾之鎚,Thor's Hammer,,索尔之锤
+1,6,,SR H SR H SR H SR DRB SR H S L E7 V L SR H3 SR H S DR SR H S L2 SR DRB H4 SR H3 S L E V L E DR SR H SRB H3 SR H S L E4 V L E4 SR H SR H SR H S L2 E6 S,武士技能,Mononofu Skills,モノノフスキル,武士技能
+,0,-,0,一閃,Issen,一閃,一闪
+,1,0,1,波動刃,Pulse Blade,波動刃,波动刃
+,2,1,2,三段突刺,Triple Thrust,三段突き,三段突刺
+,3,2,3,八相發破,Hasso Happa,八相発破,八相发破
+,5,3,4,天流亂星,Tenryu Ransei,天流亂星,天流乱星
+,15,5,5,霞雪月花,Kasumisetsu Getsuka,霞雪月花,霞雪月花
+,6,-,6,刀柄打擊,Pommel Strike,柄打ち,刀柄打击
+,7,6,7,斷禍,Magadachi,禍断ち,断祸
+,8,7,8,斬釘截鐵,Zantei Settetsu,斬釘截鉄,斩钉截铁
+,4,3,9,畫龍點睛,Garyou Tensei,畫龍點睛,画龙点睛
+,16,4,10,無影斬,Shadowless Slash,無影斬,无影斩
+,9,-,11,武士道,Bushido,武士道,武士道
+,10,9,12,縮地法,Shukuchi,縮地法,缩地法
+,17,10,13,突襲制其先,Nukiuchi Sennosen,抜打先之先,突袭制其先
+,11,9,14,雙手合持,Two-Handed,両手持ち,双手合持
+,12,11,15,明鏡止水,Meikyo Shisui,明鏡止水,明镜止水
+,13,12,16,怪力亂神,Kairiki Ranshin,怪力乱神,怪力乱神
+,18,13,17,不撓不屈,Dauntless,不撓不屈,不挠不屈
+,14,-,22,彈刀,Bouncing Blade,刃弾き,弹刀
+,19,12,18,瑞風,,,瑞风
+,20,19,19,一陣風,,,一阵风
+,21,20,20,颯,,,飒
+,22,21,21,一陣風．改,,,一阵风．改
+1,7,,SR H SR H SR H S L2 SR DRB SR H3 S L E V L E DR SR H SR H S,粉碎者技能,Crusher Skills,クラッシャースキル,粉碎者技能
+,0,-,0,正拳突擊,Forefist Punch,正拳突き,正拳突击
+,1,0,1,巨人烈破,Goliath Punch,ゴリアステイクショット,巨人烈破
+,2,1,2,神之手,God Hand,ゴッドハンド,神之手
+,7,2,3,神剛體,Divine Rigid Body,,神刚体
+,3,-,4,呼吸法,Breathwork,呼吸法,呼吸法
+,4,3,5,飛踢,Floating Kick,フローティングキック,飞踢
+,9,4,6,噴泉飛踢,Geyser Kick,,喷泉飞踢
+,5,3,7,組合拳,Combination,コンビネーション,组合拳
+,6,5,8,破壞者,Annihilator,破壊者,破坏者
+,8,6,9,碎地之技,Terrablast Unacquired,ジオクラッシャー,碎地之技
+1,8,,E5 DRB S L E3 DRB SR D L E DRB SR DB E DRB SR H S L SR DB E DR SR DB L E DR SR DB E DR S L E3 DR SR DB L E5 DR SR H S L L SR H SR H SR H SR H S L,靈魂技能,Sprite Skills,スプライトスキル,灵魂技能
+,0,1,0,復甦,Resurrection,リザレクション,复苏
+,1,2,1,守望相助,Micro Heal,クラインヒール,守望相助
+,2,4,2,緊急援助,Express Aid,ラッシュエイド,紧急援助
+,3,5,3,穩定術,Stabiliz,スタビリス,稳定术
+,4,-,5,自動裝置,Auto-Device,オートデバイス,自动装置
+,5,2,6,增強術,Enhance Unacquired,エンハンス,增强术
+,6,4,7,反擊勢力,CounterForce,カウンターフォース,反击势力
+,7,5,8,靈魂護盾,Sprite Shield,,灵魂护盾
+,8,6,9,天外長槍,Astral Lance,アストラルランス,天外长枪
+,9,8,10,魔法火神,Magic Vulcan,マジックバルカン,魔法火神
+,10,3,4,靈魂強化,,,灵魂强化
+,11,9,11,詛咒祭壇,,,诅咒祭坛
+,12,-,12,點燃,,,点燃
+,13,12,13,土龍魔彈,,,土龙魔弹
+,14,13,14,虛幻武裝,,,虚幻武装
+,15,14,15,魔刃收割,,,魔刃收割
+,16,15,16,生命的光輝,,,生命的光辉
+0,1,,,強化技能,Buff,強化スキル,强化技能
+1,0,,DRB H3 S L SR H S L2 SRB H S L DR H3 S,防衛技能,Guard Skills,ガードスキル,防卫技能
+,0,-,1,重防具要領,Heavy Armor,重防具マスタリ,重防具要领
+,1,0,2,進階阻擋,Advanced Guard,アドバンスガード,进阶阻挡
+,2,0,0,物理防禦,Physical Guard,フィジカルガード,物理防御
+,3,-,3,輕防具要領,Light Armor,軽防具マスタリ,轻防具要领
+,4,3,4,進階閃躲,Advanced Evasion,アドバンスフリー,进阶闪躲
+,5,3,5,幻象迷蹤,Mirage Evasion,ミラージュステップ,幻象迷踪
+1,1,,E DRB SR H SR H S L E V L SR DRB SR H S L E V L E DR SR H SR H SR H S L2 SR H SR H3 S,防護技能,Shield Skills,シールドスキル,防护技能
+,0,-,3,盾牌要領,Shield Mastery,シールドマスタリ,盾牌要领
+,1,0,0,重盾擊,Shield Bash,シールドバッシュ,重盾击
+,2,1,1,飛盾,Shield Cannon,シールドキャノン,飞盾
+,3,2,2,傷害反彈,Guard Strike,ガードストライク,伤害反弹
+,4,0,4,防護盾甲,Force Shield,フォースシールド,防护盾甲
+,5,4,5,防魔盾甲,Magical Shield,マジカルシールド,防魔盾甲
+,6,-,10,防禦界限,Protection,プロテクション,防御界限
+,7,6,11,魔法庇護,Aegis,イージス,魔法庇护
+,8,7,12,移花接木,Guardian,ガーディアン,移花接木
+,9,0,6,上擊盾,Shirld Uppercut,,上击盾
+,10,9,7,成雙之盾,Dual Shield,,成双之盾
+,11,10,8,護盾修復,Shield Repair,,护盾修复
+,12,11,9,圍攻,Belagerung,,围攻
+1,2,,E DRB SR H SR H SR H S L SR DB L E DR SR H S L2 SR H SR DRB H2 S L E3 V L E3 DR SR H SR H S,刀術技能,Dagger Skills,ナイフスキル,刀术技能
+,0,-,4,飛刃,Throwing Knife,スローイング,飞刃
+,1,0,0,定影針,Spike Dart,スバイクダート,定影针
+,2,1,1,加特林機槍,Gatling Knife,ガトリングナイフ,加特林机枪
+,3,2,2,神乎其技,Amazing Throw,脅威の投擲術,神乎其技
+,4,0,5,毒飛刃,Poison Dagger,ポイズンダガー,毒飞刃
+,5,4,6,連環刃,Double Throw,ダブルスロー,连环刃
+,6,-,7,無影刃,Hidden Arm,セカンドアーム,无影刃
+,7,6,8,威力增幅,Intense Knife,インテンスナイフ,威力增幅
+,8,7,9,裝甲破壞,Mail Breaker,メイルブレイカー,装甲破坏
+,9,7,10,短兵相接,Knife Combat,,短兵相接
+,10,9,11,畏懼之刃,Flincher Knife,,畏惧之刃
+,11,3,3,瘋狂飛刀,,,
+,12,10,12,迴旋噬咬,,,
+1,3,,SR H SR H SR H SR H S L2 SR H SRB H SR H SR H S L E2 V L E2 SR H S L SR H5 SR H S,騎士技能,Knight Skills,ナイトスキル,骑士技能
+,0,-,0,突擊,Assault Attack,アサルトアタック,突击
+,1,0,1,卸力,Parry,パリィ,卸力
+,2,1,2,完善守備,P. Defense,Pディフェンス,完善守备
+,3,2,3,重騎覺醒,Fareth,ファーレス,重骑觉醒
+,4,-,5,挑釁,Provoke,プロボーグ,挑衅
+,5,4,6,憤怒的一擊,Rage Sword,レイジソード,愤怒的一击
+,6,5,7,繫影強襲,Binding Strike,バインドストライク,系影强袭
+,7,6,8,騎士決意,Knight Will,ナイトウィル,骑士决意
+,8,5,10,音速擠壓,Sonic Thrust,ソニックスラスト,音速挤压
+,9,8,11,歸來,Revenir,ルヴニール,归来
+,10,-,12,騎士勇姿,Knight's Stance,ナイトスタンス,骑士勇姿
+,11,10,13,騎士治癒,Knight's Remedy,ナイトヒール,骑士治愈
+,12,3,4,後防盾甲,Aftershield,アフターシールド,后防盾甲
+,13,7,9,閃爍之劍,Blink Sword,ブリンクソード,闪烁之剑
+,14,11,14,騎士誓約,Knight Pledge,ナイトプレッジ,骑士誓约
+1,4,,SR H SR H SR H SR H S L2 SR H SR H SR H SR H S L2 E3 DRB SR H S L SR H SR DB L E3 DR SR H SR H S,狩獵技能,Hunter Skills,ハンタースキル,狩猎技能
+,0,-,0,腿踢,Kick,キックバック,腿踢
+,1,0,1,旭日之箭,Sunrise Arrow,サンライズアロー,旭日之箭
+,2,1,2,力量之箭,Magic Arrow,フォースアロー,力量之箭
+,3,2,3,星墜,Satellite Arrow,サテライトアロー,星坠
+,4,-,5,沉睡陷阱,Sleep Trap,スリープトラップ,沉睡陷阱
+,5,4,6,絆腳陷阱,Bear Trap,トラバサミ,绊脚陷阱
+,6,5,7,猛爆地雷,Land Mine,エクスプローシブ,猛爆地雷
+,7,6,8,乏力陷阱,Dark Trap,ブランクトラップ,乏力陷阱
+,8,-,12,尋蹤射擊,Homing Shot,,寻踪射击
+,9,8,13,探知,Detection,,探知
+,10,9,10,氣旋箭,Cyclone Arrow,,气旋箭
+,11,10,11,垂直氣彈,Vertical Air,,垂直气弹
+,12,9,14,弩弓獵人,Hunter Bowgun,,弩弓猎人
+,13,12,15,多重狩獵,Multiple Hunt,,多重狩猎
+,14,3,4,聚焦,Focus,フォーカス,聚焦
+,15,7,9,偽裝術,Camouflage,カムフラージュ,伪装术
+,16,13,16,狩獵知識,Hunter Knowledge,狩人の知識,狩猎知识
+1,5,,SR H SR H SR H SR H S L2 SR H SRB H SR H SR H S L E2 V L S E SR H SR H SR H S,祭司技能,Priest Skills,プリーストスキル,祭司技能
+,0,-,0,祝福,Bless,ブレス,祝福
+,1,0,1,榮耀頌歌,Gloria,グロリア,荣耀颂歌
+,2,1,2,強化祝福,Enhanced Bless,ブレス強化,强化祝福
+,3,2,3,高貴治癒,Royal Heal,ハイネスヒール,高贵治愈
+,4,-,5,聖拳之裁,Holy Fist,ホーリーフィスト,圣拳之裁
+,5,4,6,神聖光輝,Holy Light,ホーリーライト,神圣光辉
+,6,5,7,空靈障壁,Ether Barrier,エーテルコート,空灵障壁
+,7,6,8,祈禱,Prayer,プリエール,祈祷
+,8,-,10,杖擊,Staff Thrust,ロッドスタブ,杖击
+,9,5,11,驅魔,Exorcism,エクソシズム,驱魔
+,10,9,12,神聖之書,Holy Bible,ホーリーバイブル,神圣之书
+,11,10,13,復仇女神,Namesis,ネメシス,复仇女神
+,12,3,4,神聖教導,Sacred Teaching,神聖な教え,神圣教导
+,13,7,9,阿斯庇斯之靈,Aspis Soul,アスピスソウル,阿斯庇斯之灵
+,14,11,14,神聖恩惠,Holy Grace,ホーリーグレイス,神圣恩惠
+1,6,,E2 DRB H3 S L SR H SR H SR H3 S L2 SR H SR H SR H SR H S L2 SR H SR H SR H SR H S,暗殺技能,Assasin Skills,アサシン,暗杀技能
+,0,-,1,暗殺突刺,Assasin Stab,アサシンスタブ,暗杀突刺
+,1,0,2,急速後閃,Backstep,バックステップ,急速后闪
+,2,1,3,死亡綻放,Arcane Strike,フューネヴィンデ,死亡绽放
+,3,1,0,刺客殺著,Sicarius,シーカーリウス,刺客杀着
+,4,-,5,迅影迴避,Evasion,イベーション,迅影回避
+,5,4,6,血清注射,Serum,シエラム,血清注射
+,6,5,7,看破,Foresight,見切り,看破
+,7,6,8,暗影步伐,Shadow Walk,シャドウウォーク,暗影步伐
+,8,-,10,毒液注入,Venom Injection,ベノムインジェクト,毒液注入
+,9,8,11,腐蝕性猛毒,Corrosive Poison,蝕む猛毒,腐蚀性猛毒
+,10,9,12,毒液搶奪,Venom Thief,ベノムスナッチ,毒液抢夺
+,11,10,13,死亡歡宴,Death Reception,デスリセプション,死亡欢宴
+,12,2,4,暗殺之真髓,Secret Assassin,暗殺の極意,暗杀之真髓
+,13,7,9,猛襲追擊,Assault Chase,アサルトチェイス,猛袭追击
+,14,11,14,毒藥師,Poison Master,毒の調合師,毒药师
+1,7,,DRB H3 S L V L SRB H3 SR H SR H SR H S L V L DR H SR DRB H2 SR H SR H S L E3 V L S E2 DR SR H SR H SR H S,巫師技能,Wizard Skills,ウィザードスキル,巫师技能
+,0,-,1,使魔,Familia,ファミリア,使魔
+,1,0,0,閃電術,Lightning,ライトニング,闪电术
+,2,0,2,暴風雪,Blizzard,ブリザード,暴风雪
+,3,2,3,流星轟炸,Meteor Strike,メテオストライク,流星轰炸
+,4,3,4,帝王之光,Imperial Ray,インペリアルレイ,帝王之光
+,5,0,6,魔力水晶,Mana Crystal,マナクリスタル,魔力水晶
+,6,5,7,石膚術,Stone Barrier,ストーンスキン,石肤术
+,7,6,8,高階使魔,Advanced Familia,ハイファミリア,高阶使魔
+,8,-,10,詠唱要領,Cast Mastery,キャストマスタリ,咏唱要领
+,9,5,11,水晶雷射,Crystal Laser,クリスタルレーサー,水晶雷射
+,10,9,12,超限,Overlimit,オーバーリミット,超限
+,11,10,13,魔術嚮導,Sorcery Guide,魔術の導,魔术向导
+,12,4,5,魔術研究,Magic Research,魔術研究,魔术研究
+,13,7,9,貓咪的掉落物,Kitty's Treasure,猫の落とし物,猫咪的掉落物
+,14,11,14,次元挪移,Shift,シフト,次元挪移
+,,,,,,,
+,,,,,,,
+,,,,,,,
+0,2,,,輔助技能,Assist,補助スキル,辅助技能
+1,0,,E2 SR H SR H SR H S L S L E2 SR H SR H SR H S L2 E2 SR H SR H SR H S,輔助技能,Support Skills,サポートスキル,辅助技能
+,0,-,4,急救,First Aid,応急手当,急救
+,1,-,0,治癒術,Mini Heal,ぷちヒール,治愈术
+,2,1,1,異常抗體,Recovery,リカバリー,异常抗体
+,3,2,2,聖域,Sanctuary,サンクチュアリ,圣域
+,4,3,3,癒合,Heal,ヒール,愈合
+,5,-,5,生命能源,Life Recovery,ライフリカバリー,生命能源
+,6,5,6,勇氣泉源,Brave Aura,ブレイブオーラ,勇气泉源
+,7,6,7,高速詠域,High Cycle,ハイサイクル,高速咏域
+,9,-,9,魔力能源,Mana Recharge,マナリチャージ,魔力能源
+,10,9,10,魔法防護,Magic Barrier,マジックバリア,魔法防护
+,11,10,11,異常防護,Immunity,ディジートシール,异常防护
+,8,7,8,高速行動,Quick Motion,クイックモーション,高速行动
+,12,11,12,神速反應,Fast Reaction,ハイリアクション,神速反应
+1,1,,SR H SR H SR H SR H S L2 SR H SR H SR H SR H S L2 SR H SR H SR H SR H S,好戰份子,Battle Skills,バトルスキル,好战份子
+,0,-,0,提升魔力,Magic UP,魔法力up,提升魔力
+,1,0,1,專注,Concentrate,集中,专注
+,2,1,2,頑強抵抗,Desperate Resist,必死の抵抗,顽强抵抗
+,3,2,3,魔力增幅,Increased Energy,更なる魔力,魔力增幅
+,4,3,4,分段爆裂,Spell Burst,スペルバースト,分段爆裂
+,5,-,5,提升攻擊力,Attack UP,攻撃力up,提升攻击力
+,6,5,6,強打,Whack,強打,强打
+,7,6,7,提升暴擊率,Critical UP,クリティカルup,提升暴击率
+,8,7,8,威嚇之力,Intimidating Power,脅威の威力,威吓之力
+,9,8,9,追擊之真髓,Secret Chase Attack,追擊の極意,追击之真髓
+,10,-,10,提升防禦率,Defence UP,防御力up,提升防御率
+,11,10,11,提升迴避率,Dodge UP,回避力up,提升回避率
+,12,11,12,提升命中率,Accuracy UP,命中up,提升命中率
+,13,12,13,守護要訣,Defense Mastery,守備の心得,守护要诀
+,14,13,14,超凡掌握,Super Grip,スーパーグリップ,超凡掌握
+1,2,,E3 DRB S L S E2 V L E2 SR DR S L S L E2 SR DRB S L S E2 V L E3 DR S,生存本能,Survival Skills,サバイバルスキル,生存本能
+,0,-,1,裝死,Play Dead,死んだふり,装死
+,1,-,4,經驗值提升,EXP Gain Up,経験値アップ,经验值提升
+,2,-,7,掉寶率提升,Drop Rate Up,収集率アップ,掉宝率提升
+,3,-,2,安心休息,Safe Rest,安全な休憩,安心休息
+,4,3,0,HP突破,HP Boost,ＨＰブースト,HP突破
+,5,3,3,游刃有餘,Fighter's High,余裕ある戦闘,游刃有余
+,6,-,5,喘一口氣,Short Rest,小さな息抜き,喘一口气
+,7,6,6,MP突破,MP Boost,ＭＰブースト,MP突破
+,8,6,8,沉著以對,Sober Analysis,冷静な戦術,沉着以对
+0,3,,,生產技能,Produce,生活関連スキル,生产技能
+1,0,,E DRB SR H SR H SR H SR H S E S L E V L SR DRB H H SR H SR H S E3 S L E V L E H SR DRB SR H3 S E3 S L E3 V L S E2 DR SR H SR H SR H S E S L2 E12 S L2 E12 S,鍛冶大師,Smith Skills,スミススキル,锻冶大师
+,0,-,6,精鍊裝備,Refine Equipment,装備精錬,精炼装备
+,1,0,0,自身的鐵砧,Novice's Anvil,初心者の金敷,自身的铁砧
+,2,1,1,專家的鐵砧,Craftman's Anvil,職人の金敷,专家的铁砧
+,3,2,2,鐵匠鋪的鐵砧,Blacksmith's  Anvil,鍛冶屋の金敷,铁匠铺的铁砧
+,11,3,3,大師的鐵砧,Master's Anvil,達人の金敷,大师的铁砧
+,15,11,4,大師的鐵砧II,,,大师的铁砧II
+,4,0,7,中級精鍊技術,Mid-Class Refinement,中級精錬技術,中级精炼技术
+,5,4,8,高級精鍊技術,High-Class Refinement,上級精錬技術,高级精炼技术
+,12,5,9,大師級精鍊技術,Expert's Refinement,匠の精錬技術,大师级精炼技术
+,6,0,11,製作裝備,Create Equipment,装備製作,制作装备
+,7,6,12,精心打造,Careful Creation,丁寧な工作,精心打造
+,13,7,13,大師級製作技術,Expert's Creation,匠の製作技術,大师级制作技术
+,8,6,16,強化裝備,Customize Equipment,装備強化,强化装备
+,9,8,17,正確的強化,Accurate Customization,正確な強化,正确的强化
+,14,9,18,大師級強化技術,Expert's Customization,匠の強化技術,大师级强化技术
+,16,14,19,大師級強化技術II,Expert's Customization II,匠の強化技術Ⅱ,大师级强化技术II
+,10,-,15,素材加工,Process Materials,素材加工,素材加工
+,17,-,5,理解金屬,,,理解金属
+,18,-,10,理解布料,,,理解布料
+,19,-,14,理解獸品,,,理解兽品
+,20,-,20,理解木材,,,理解木材
+,21,-,21,理解藥品,,,理解药品
+,22,-,22,理解魔素,,,理解魔素
+1,1,,E DRB SR H SR H SR H SR H S L E V L SR DRB H2 SR H SR H SR H S L E V L S DR H2 SR H SR H SR H S,鍊金術士,Alchemy Skills,アルケミースキル,链金术士
+,0,-,5,合成道具,Item Synthesis ,アイテム合成,合成道具
+,1,0,0,新手的藥瓶,Novice's Bottle ,初心者の薬瓶,新手的药瓶
+,2,1,1,專家的藥瓶,Craftman's Bottle,職人の薬瓶,专家的药瓶
+,3,2,2,合成所的藥瓶,Synthsist's Bottle,合成屋の薬瓶,合成所的药瓶
+,9,3,3,大師的藥瓶,Master's Bottle,達人の薬瓶,大师的药瓶
+,12,9,4,大師的藥瓶II,Master's Bottle II,達人の薬瓶Ⅱ,大师的药瓶II
+,4,0,6,中級合成術,Mid-Class Synthesis ,中級合成術,中级合成术
+,5,4,7,高級合成術,High-Class Synthesis ,上級合成術,高级合成术
+,10,5,8,大師級合成術,Expert's Synthesis,匠の合成術,大师级合成术
+,13,10,9,大師級合成術II,Expert's Synthesis II,匠の合成術Ⅱ,大师级合成术II
+,6,-,10,素材加工,Process Materials,素材加工,素材加工
+,7,0,11,合成裝備,Synthesize Equipment ,装備合成,合成装备
+,8,7,12,合成技術加強I,Technical Synthesis I,合成技術向上Ⅰ,合成技术加强I
+,11,8,13,合成技術加強II,Technical Synthesis II,合成技術向上Ⅱ,合成技术加强II
+,14,11,14,合成技術加強III,Technical Synthesis III,合成技術向上Ⅲ,合成技术加强III
+1,2,,SR DBR SR H S L E V L E DBR SR H S L E V L E DR SR H S,馴獸天分,Tamer Skills,テイマースキル,驯兽天分
+,0,-,0,捕獲,Taming,テイミング,捕获
+,1,0,1,捕獲技術Ⅰ,Capture Technique I,捕獲技術Ⅰ,捕获技术Ⅰ
+,2,1,2,捕獲技術Ⅱ,Capture  Technique II,捕獲技術Ⅱ,捕获技术Ⅱ
+,3,0,3,捕捉好手,Skillful Capture,グッドテイム,捕捉好手
+,4,3,4,慎重捉拿,Careful Capture,丁寧な捕獲,慎重捉拿
+,5,0,5,治療寵物,Pet Heal,ペットヒール,治疗宠物
+,6,5,6,充電寵物,Pet MP Charge,ペットチャージ,充电宠物
+0,4,,,技能書,Skill Book,Skill Book,技能书
+1,0,,SR H SR H SR H S L2 SR H SR H SR H S L2 SR H SR H SR H S,暗黑之力,Dark Power,ダークパワースキル,暗黑之力
+,0,-,0,血咬,Bloody Bite,ブラッドバイト,血咬
+,1,0,1,暗魔鑽刺,Dark Stinger,ダークスティンガー,暗魔钻刺
+,2,1,2,腥紅血淚,Red Tear,レッドティアー,腥红血泪
+,6,2,3,獵魂,Soul Hunter,ソウルハント,猎魂
+,3,-,4,獻祭,Sacrifice,サクリファイス,献祭
+,4,3,5,惡魔狂爪,Demon Claw,デーモンクロウ,恶魔狂爪
+,5,4,6,無悔殺意,Regretless,リグレット,无悔杀意
+,7,5,7,永恆噩夢,Eternal Nightmare,エータナルナイトメア,永恒噩梦
+,8,-,8,威壓魔眼,,,
+,9,8,9,魅惑魔眼,,,
+,10,9,10,黑炎魔眼,,,
+,11,10,11,混沌魔眼,,,
+,,,,,,,
+1,1,,SR H SR H SR H SR H S L2 SR H SR H SR H SR H S L2 SR H SR H SR H SR H S,魔劍技能,Magic Blade,マジックブレードスキル,魔剑技能
+,0,-,0,魔法戰士的要訣,Magic Warrior Mastery,魔法戦士の心得,魔法战士的要诀
+,1,0,1,轉化,Conversion,コンバージョン,转化
+,2,1,2,魔力共鳴,Resonance,レゾナンス,魔力共鸣
+,6,2,3,附魔之咒,Enchanted Spell,エンチャントスペル,附魔之咒
+,3,-,5,空靈閃焰,Ether Flare,エーテルフレア,空灵闪焰
+,4,3,6,元素斬劈,Element Slash,エレメントスラッシュ,元素斩劈
+,5,4,7,附魔劍擊,Enchant Sword,エンチャントソード,附魔剑击
+,7,5,8,附魔爆發,Enchanted Burst,エンチャントバースト,附魔爆发
+,8,-,10,流轉屏障,Siphon Barrier,,流转屏障
+,9,8,11,傳送,Teleport,,传送
+,10,9,12,流轉召回,Drain Recall,,流转召回
+,11,10,13,飄浮衝刺,Float Dash,,飘浮冲刺
+,12,6,4,雙重提供,Dual Bringer,,双重提供
+,13,7,9,聯合巨劍,Union Sword,,联合巨剑
+,14,11,14,魔法膜,Magic Skin,,魔法膜
+1,2,,SR DRB SR H SR H S L E V L E DR S L E4 SR H S,舞者技能,Dancer Skills,ダンサースキル,舞者技能
+,0,-,0,妖精之舞,Fairy Dance,妖精の舞,妖精之舞
+,1,0,1,激情之舞,Frenzy Dance,激情の舞,激情之舞
+,2,1,2,敏捷之舞,Astute Dance,鋭敏な舞,敏捷之舞
+,3,2,3,魅惑之舞,Charming Dance,魅惑の舞,魅惑之舞
+,4,0,4,援助之舞,Spirited Dance,応援の舞,援助之舞
+,5,-,5,優雅架式,Elegant Poise,優雅な構え,优雅架式
+,6,5,6,風花雪月,Nature's  Wonders ,花鳥風月,风花雪月
+1,3,,"
+E3 DRB H2 S L
+E3 V L
+SR DRB SR DR H2 S L
+E V E DRB S L
+E DR SR DB E DRB S L
+E3 DR SR DB L
+E5 DR S L
+E4 S",吟遊詩人,Minstrel Skills,ミンストレルスキル,吟游诗人
+,0,-,1,治癒之歌,Healing Song,癒しの歌,治愈之歌
+,1,0,2,妖精之歌,Fairy Song,妖精の歌,妖精之歌
+,2,1,0,熱情之歌,Passion Song,熱情の歌,热情之歌
+,3,1,3,智悟之歌,Wisdom Song,智解の歌,智悟之歌
+,4,0,5,生命之歌,Life Song,生命の歌,生命之歌
+,5,4,4,夢幻之歌,Fantasy Song,夢幻の歌,梦幻之歌
+,6,-,9,即興演出,Ad-lib,アドリブ,即兴演出
+,7,8,6,聲音之幕,Sound Veil,サウンドヴェール,声音之幕
+,8,4,7,節奏衝擊,Beat Blast,ビートブラスト,节奏冲击
+,9,8,8,戰鬥樂譜,Battle Antheme,バトルノート,战斗乐谱
+,,,,,,,
+1,4,,S DRB SR H S L E V E4 S L SRB DRB SR H S L V V L V DR SR H SR H S L V L DR H3 SR H S,徒手戰鬥,Barehand Skills,ベアハンドスキル,徒手战斗
+,0,-,0,徒手戰鬥要領,Unarmed Mastery,素手マスタリ,徒手战斗要领
+,1,-,4,聚氣功,Qi Charge ,集気功,聚气功
+,2,1,1,獅子奮迅,Lion Rage,獅子奮迅,狮子奋迅
+,3,1,5,疾風怒濤,Raving Storm,疾風怒涛,疾风怒涛
+,4,1,7,回復氣功,Internal Elixir ,回復気功,回复气功
+,5,2,2,獅子奮迅．極,Ultima Lion Rage,獅子奮迅･極,狮子奋迅．极
+,6,3,6,疾風怒濤．極,Ultima Raving Storm,疾風怒濤･極,疾风怒涛．极
+,7,4,8,鬪志衝撞,Clash of Enmity,闘志の衝突,鬪志冲撞
+,8,1,10,聚氣功．極,Ultima Qi Charge ,集気功･極,聚气功．极
+,9,-,3,驚天動地,Earthshaker,,惊天动地
+,10,7,9,起死回生,Miracle Comeback,,起死回生
+,11,8,11,自我韜晦,Hidden Talent,,自我韬晦
+,,,,,,,
+1,5,,SR DRB S L E V L E DR H2 SR H S,忍者技能,Ninja Skills,ニンジャスキル,忍者技能
+,0,-,0,忍術,Ninjutsu,忍術,忍术
+,1,0,1,忍道,Ninja Spirit,忍道,忍道
+,2,0,2,忍術鍛鍊Ⅰ,Ninjutsu Drill I,忍術鍛錬Ⅰ,忍术锻炼Ⅰ
+,3,2,3,忍術鍛鍊Ⅱ,Ninjutsu Drill II,忍術鍛錬Ⅱ,忍术锻炼Ⅱ
+1,6,,SR H SR H S L2 E4 S L2 SR H SR H S L2 SR H S,游擊隊技能,Partisan Skill,パルチザンスキル,游击队技能
+,0,-,0,L迴旋鏢,L Boomerang,Lブーメラン,L回旋镖
+,1,0,1,L迴旋鏢II,L Boomerang II,LブーメランII,L回旋镖II
+,2,1,2,L迴旋鏢III,L Boomerang III,LブーメランIII,L回旋镖III
+,3,-,3,N龍牙擊,N Dragon Tooth,Nドラゴントゥース,N龙牙击
+,4,-,4,療傷射擊,Healing Shot,ヒーリングショット,疗伤射击
+,5,4,5,磨箭,Arrow Sharpening,矢研ぎ,磨箭
+,6,5,6,生存本能,Survival Instinct,生存本能,生存本能
+,7,-,7,前線維持,Frontliner,前線維持,前线维持
+,8,7,8,前線維持II,Frontliner II,前線維持II,前线维持II
+1,7,,E DRB SR H SR H S L E V L SR DRB H2 SR H S L E V L E DR SR H SR H S L2 SR H3 SR H S,死靈法術,Necromancer Skill,,死灵法术
+,0,-,3,掘墓人,Grave Digger,,掘墓人
+,1,0,0,幻靈飛彈,Phatom Missile,,幻灵飞弹
+,2,1,1,盜血,Blood Siphon,,盗血
+,3,2,2,靈力流彈,Soul Stream,,灵力流弹
+,4,0,4,骸骨召喚,Skeleton Call,,骸骨召唤
+,5,4,5,惡魔召喚,Demonic Pact,,恶魔召唤
+,6,0,6,優質產具,Fine Shovel,,优质产具
+,7,6,7,收穫,Harvest,,收获
+,8,7,8,自產自銷,Opportunist,,自产自销
+,9,-,9,墓園,Tomb,,墓园
+,10,9,10,頭骨震盪,Skull Shaker,,头骨震荡
+,11,10,11,危險震盪,Hazard Strike,,危险震荡
+1,8,,E DRB SR H S L E V L SR DRB SR H S L E V L E DR SR H S L2 E DRB SR H S L SR D,魔像技能,,,魔像技能
+,0,-,2,召喚魔像,,,召唤魔像
+,1,0,0,槍兵型．改,,,枪兵型．改
+,2,1,1,強化攻擊,,,强化攻击
+,3,0,3,盾兵型．改,,,盾兵型．改
+,4,3,4,強化盾牌,,,强化盾牌
+,5,0,5,破壞者型．改,,,破坏者型．改
+,6,5,6,強化速度,,,强化速度
+,7,-,9,魔導手榴彈,,,魔导手榴弹
+,8,7,7,冰凍手榴彈,,,冰冻手榴弹
+,9,8,8,閃光手榴彈,,,闪光手榴弹
+0,5,,,其他,Other,その他,其他
+1,0,,S E S E S E S L2 S E S E S,活動技能,Event Skills,コラボスキル,活动技能
+,0,-,0,爆裂炎擊,Explosion,エクスプロージョン,爆裂炎击
+,1,-,1,魔劍閃光,Light of Saber,ライト・オブ・セイバー,魔剑闪光
+,2,-,2,流星飛錘,Morning star,モーニングスター,流星飞锤
+,3,-,3,龍破斬,Dragslave,,龙破斩
+,4,-,4,鐵管,,,
+,5,-,5,復古弩,,,
+,6,-,6,麥格農,,,
+1,1,,SRB H SRB H SRB H SRB H SB L V E V E V E V E V L SRB H SRB H SRB H SRB H SB L V E V E V E V E V L SRB H SRB H SRB H SRB H SB L V E V E V E V E V L SRB H SRB H SRB H SRB H SB L V E V E V E V E V L SR H SR H SR H SR H S L V E V E V E V E V L,寵物技能,Pet Skills,ペットスキル,宠物技能
+,0,-,0,破壞強襲,Raging Blow,バスターアタック,破坏强袭
+,1,-,1,HP高升,HP Gain,HPアップ,HP高升
+,2,-,2,吸收MP,Absorb MP,MP吸収,吸收MP
+,3,-,3,退隱藏身,Hide,かくれる,退隐藏身
+,4,-,4,魔力槍擊,Magic Lance,ソルシエルランス,魔力枪击
+,5,-,5,暴擊高升,Critical Up,クリティカルアップ,暴击高升
+,6,-,6,暴力重擊,Heavy Blow,ヘビーアタック,暴力重击
+,7,-,7,迷蹤奇襲,Stealth Attack,スニークアタック,迷踪奇袭
+,8,-,8,魔彈射擊,Magic Shot,マジックショット,魔弹射击
+,9,-,9,陣風爆燃,Blast Flare,ブラストフレア,阵风爆燃
+,10,-,10,環形治癒,Circle of Heal,クライスヒール,环形治愈
+,11,-,11,越戰越勇,Encourage,ブレイブアップ,越战越勇
+,12,-,12,急救（寵物）,First Aid (Pet),応急手当,急救（宠物）
+,13,-,13,精神煥發,Clear Mind,マインドアップ,精神焕发
+,14,-,14,療傷大法,Restore Health,ヒーリング,疗伤大法
+,15,-,15,掃堂腿,Sweep Attack,スウィープアタック,扫堂腿
+,16,-,16,高壓威逼,Clean Hit,ダウンブロウ,高压威逼
+,17,-,17,激狂怒擊,Rage Attack,レイジアタック,激狂怒击
+,18,-,18,有眼無珠,Blinding Shadow,ブラインドアイ,有眼无珠
+,19,-,19,堅不可摧,Resistance Up,カットアップ,坚不可摧
+,20,-,20,暈頭轉向,Stun Attack,スタンアタック,晕头转向
+,21,-,21,替罪羔羊,Cover,かばう,替罪羔羊
+,22,-,22,吸收HP,Absorb HP,HP吸収,吸收HP
+,23,-,23,MP高升,MP Gain,MPアップ,MP高升
+,24,-,24,破封穿心,Shield Break,シールブレイカー,破封穿心
+1,2,,SB E SB E SB E SB E S L V E V E V E V L S E S E S E S L2 S E S E S,忍術表,Ninjutsu,忍術リスト,忍术表
+,0,-,0,火遁術,Fire Release,火遁の術,火遁术
+,1,-,5,火遁．爆炎陣,Blazing Explosion,火遁･爆炎陣,火遁．爆炎阵
+,2,-,1,雷遁術,Thunder Release,雷遁の術,雷遁术
+,3,-,6,雷遁．紫電一閃,Lightning Flash,雷遁･紫電一閃,雷遁．紫电一闪
+,4,-,2,風遁術,Wind Release,風遁の術,风遁术
+,5,-,7,風遁．劈甲,Skull Break,風遁･兜割り,风遁．劈甲
+,6,-,3,水遁術,Water Release,水遁の術,水遁术
+,11,-,8,水遁．急獺渦,Rapid Aqua Vortex,水遁･急瀬渦,水遁．急獭涡
+,7,-,4,土遁術,Earth Release,土遁の術,土遁术
+,8,-,9,分身術,Cloning,分身の術,分身术
+,9,-,10,風魔手里劍,Demon Wind Shuriken,風魔手裏剣,风魔手里剑
+,10,-,11,苦無飛鏢,Kunai Throw,クナイ投げ,苦无飞镖

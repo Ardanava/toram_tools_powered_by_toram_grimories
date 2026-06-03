@@ -10,7 +10,7 @@ import { toInt } from '@/shared/utils/number'
 import { I18nStore } from './I18nStore'
 import { LocaleGlobalNamespaces, type LocaleNamespaces, LocaleViewNamespaces } from './enums'
 
-export const DEFAULT_LOCALE = 'zh-TW'
+export const DEFAULT_LOCALE = 'en'
 const LOCALE_LIST = ['en', 'zh-TW', 'ja', 'zh-CN']
 const LOCALE_GLOBAL_NAMESPACE_LIST: LocaleGlobalNamespaces[] = [
   LocaleGlobalNamespaces.App,
@@ -38,21 +38,14 @@ export const useLocaleStore = defineStore('app-locale', () => {
   }
 
   const autoSetLang = () => {
-    const lang = window.navigator.language.toLowerCase()
-    const list: Record<string, number> = {
-      'zh-tw': 1,
-      'zh-hk': 1,
-      'ja': 2,
-      'zh-cn': 3,
-    }
-    primaryLang.value = list[lang] ?? 0
+    primaryLang.value = 0
   }
 
   const initLocale = () => {
     if (CY.storageAvailable('localStorage')) {
       // default
       if (!localStorage.getItem(APP_STORAGE_KEYS.PRIMARY_LOCALE)) {
-        localStorage.setItem(APP_STORAGE_KEYS.PRIMARY_LOCALE, 'auto')
+        localStorage.setItem(APP_STORAGE_KEYS.PRIMARY_LOCALE, '0')
       }
       if (!localStorage.getItem(APP_STORAGE_KEYS.FALLBACK_LOCALE)) {
         localStorage.setItem(APP_STORAGE_KEYS.FALLBACK_LOCALE, '0')

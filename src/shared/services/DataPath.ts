@@ -15,27 +15,27 @@ export const enum DataPathIds {
 function DataPath(id: DataPathIds): string {
   switch (id) {
     case DataPathIds.Skill:
-      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=170573319&single=true&output=csv&range=A:Q'
+      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=1606413261&single=true&output=csv&range=A:Q'
     case DataPathIds.SkillMain:
-      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=2033454381&single=true&output=csv&range=A:D'
+      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=1524815227&single=true&output=csv&range=A:D'
     case DataPathIds.Stats:
-      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=616452461&single=true&output=csv&range=A:F'
+      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=136236811&single=true&output=csv&range=A:F'
     case DataPathIds.CharacterStats:
-      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTHrEp60Q4BFKM2yI09FyJWZFKnxif0oZfTkWiXXL-7am6BWoAtN___hxKtFDkbofflHQgrON74qOdk/pub?gid=0&single=true&output=csv&range=A:I'
+      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=0&single=true&output=csv&range=A:I'
     case DataPathIds.Glossary:
-      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=1107380961&single=true&output=csv&range=A:C'
+      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=1544019839&single=true&output=csv&range=A:C'
     case DataPathIds.Equipment:
-      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRwaGM9CClGkSw-6iUFmdOyIeI-_9i5RvIuHdSCTCUgFCk7GV4v1evt5C79JSG5P66ZGopM2-ZJJaEA/pub?gid=0&single=true&output=csv&range=A:I'
+      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=730132370&single=true&output=csv&range=A:I'
     case DataPathIds.Crystal:
-      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRwaGM9CClGkSw-6iUFmdOyIeI-_9i5RvIuHdSCTCUgFCk7GV4v1evt5C79JSG5P66ZGopM2-ZJJaEA/pub?gid=1665548440&single=true&output=csv&range=A:E'
+      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=255264047&single=true&output=csv&range=A:E'
     case DataPathIds.Enchant:
-      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4beI9I-sFoTgbTaKeMHRVo3xNm3gc5nQ-MWb9u7dlzRk0QmnMoJwcaR0815IqP0t-9-htpS8mUdQ1/pub?gid=0&single=true&output=csv&range=A:O'
+      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=72560230&single=true&output=csv&range=A:O'
     case DataPathIds.Registlet:
-      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=1113738876&single=true&output=csv&range=A:I'
+      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=821692676&single=true&output=csv&range=A:I'
     case DataPathIds.Potion:
-      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRwaGM9CClGkSw-6iUFmdOyIeI-_9i5RvIuHdSCTCUgFCk7GV4v1evt5C79JSG5P66ZGopM2-ZJJaEA/pub?gid=1555730463&single=true&output=csv&range=A:E'
+      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=1541872573&single=true&output=csv&range=A:E'
     case DataPathIds.Quest:
-      return 'https://docs.google.com/spreadsheets/d/1hh66cAWlDk2uJlAbv2ivdrRNQYuK4RPuWF4iB48T31g/pub?gid=1111992028&single=true&output=csv&range=A:I'
+      return 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=583329987&single=true&output=csv&range=A:I'
   }
 }
 
@@ -46,37 +46,37 @@ function DataPathLang(id: DataPathIds): (string | null)[] {
   switch (id) {
     case DataPathIds.Skill:
       return [
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=170573319&single=true&output=csv&range=R:R',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=1606413261&single=true&output=csv&range=R:R',
         null,
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=170573319&single=true&output=csv&range=S:S',
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=170573319&single=true&output=csv&range=T:T',
+        null,
+        null,
       ]
     case DataPathIds.SkillMain:
       return [
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=2033454381&single=true&output=csv&range=F:F',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=1524815227&single=true&output=csv&range=F:F',
         null,
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=2033454381&single=true&output=csv&range=G:G',
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=2033454381&single=true&output=csv&range=H:H',
+        null,
+        null,
       ]
     case DataPathIds.Stats:
       return [
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=1353062937&single=true&output=csv&range=B:C',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=136236811&single=true&output=csv&range=B:C',
         null,
         null,
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=1353062937&single=true&output=csv&range=F:G',
+        null,
       ]
     case DataPathIds.CharacterStats:
       return [null, null, null, null]
     case DataPathIds.Glossary:
       return [
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=1107380961&single=true&output=csv&range=D:E',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=1544019839&single=true&output=csv&range=D:E',
         null,
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=1107380961&single=true&output=csv&range=F:G',
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_XhF85gZ5sd9AtOMSM6JY4OuQwFlD6kToQynQ4bMq_fiaUNr26c7dbrIs6WeWnscKe1rau1npWYe7/pub?gid=1107380961&single=true&output=csv&range=H:I',
+        null,
+        null,
       ]
     case DataPathIds.Equipment:
       return [
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vRwaGM9CClGkSw-6iUFmdOyIeI-_9i5RvIuHdSCTCUgFCk7GV4v1evt5C79JSG5P66ZGopM2-ZJJaEA/pub?gid=0&single=true&output=csv&range=J:J',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjr3VK1N9hY3HLHvSiiunb6twQ7tGBdI2cZVmDexnOR4Jn7evfmRRbdsdLYjc54_EcCPN_YoZMfjMn/pub?gid=730132370&single=true&output=csv&range=J:J',
         null,
         null,
         null,

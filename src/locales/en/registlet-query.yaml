@@ -1,0 +1,14 @@
+display-mode:
+  title: Display Mode
+  category: Category
+  obtain-levels: Obtainable Levels
+category:
+  stat: Character Stats
+  skill: Skills
+  special: Special
+detail:
+  obtain-levels: Obtainable Levels
+  obtain-levels-all: All Levels
+  max-level: Max Level
+  powder-cost: Powder Cost
+  registlet-level: Level
