@@ -23,8 +23,8 @@
                   <HomeIconTitle :root-el="rootEl" />
                 </div>
                 <div class="ml-5">
-                  <div class="text-primary-80 text-3xl">Cy's Grimoire</div>
-                  <div class="text-primary-50 mt-0.5">布偶的魔法書</div>
+                  <div class="text-primary-80 text-3xl">Toram Tools</div>
+                  <div class="text-primary-50 mt-0.5 text-sm">Based on Cy's Grimoire</div>
                 </div>
               </div>
             </div>

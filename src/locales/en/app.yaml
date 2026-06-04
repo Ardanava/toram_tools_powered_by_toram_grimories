@@ -16,15 +16,18 @@ loading-message:
     '1': Please refresh the website first if any errors occur.
   init-locale: Loading Locale
 page-title:
-  base: "Cy's Grimoire"
+  base: "Toram Tools"
   character-simulator: Character Simulator
   skill-simulator: Skill Simulator
   skill-query: Skill Info
   item-query: Item Search
   crystal-query: Xtal Search
+  registlet-query: Registlet Search
   damage-calculation: Damage Calculator
   enchant-simulator: Statting Simulator
   enchant-doll: Statting Calculator Doll
+  glossary-query: Glossary
+  main-quest-calc: Main Quest Calculator
   home: Home
   about: About
 settings:
@@ -95,13 +98,24 @@ about:
     grimoire-email: Grimoire Email
     github-message: If you have time, you can click here to help me
   team:
+    title: Team
+    main: Core Members
     equipment-data: Equipment Datas
     skill-data: Skill Datas
     sub-title: Thanks to the entire production team 0.0
   sponsor:
+    title: Sponsors
     personal: Personal Sponsorship
     sub-title: Thank you to everyone who is willing to sponsor~
     group: Guild Sponsor
+  words:
+    title: Notes
+    sub-title: Just some casual thoughts~
+    contents:
+      - If you need to contact the original author, you can send an email to the Grimoire mailbox (at the top of this page). You can also send a private message in-game.
+      - If you have any feedback, questions, or think you found a bug, feel free to reach out to the author.
+      - If you're interested in helping with data testing, input, or translation, or would like to sponsor (in-game resources), feel free to contact the author as well.
   partnership:
     title: Partnership
     join: Join
+  disclaimer: "Toram Online is a game operated by {link}. This website is simply a fan-made tool for sharing game data."

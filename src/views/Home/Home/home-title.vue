@@ -2,8 +2,8 @@
   <div class="home-title-root">
     <HomeIconTitle class="home-title-wrapper" :root-el="rootEl" />
     <div class="home-title-title">
-      <div class="home-title-sub text-4xl text-primary-70">Cy's Grimoire</div>
-      <div class="home-title-sub mt-2 text-xl text-primary-40">布偶的魔法書</div>
+      <div class="home-title-sub text-4xl text-primary-70">Toram Tools</div>
+      <div class="home-title-sub mt-1 text-sm text-primary-40">Based on Cy's Grimoire</div>
     </div>
     <div class="home-title-author text-xl text-blue-50">By. Cyteria</div>
   </div>

@@ -10,7 +10,7 @@ export function initGtag(app: App<Element>, router: Router) {
   try {
     // type definition of vue-gtag options is incorrect?
     const options = {
-      appName: 'cy-grimoire',
+      appName: 'toram-tools',
       config: {
         id: 'G-RHS8RFJF8S',
       },
